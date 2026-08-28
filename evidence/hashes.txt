@@ -1,0 +1,5 @@
+marker.txt   ASCII text, 60 bytes
+SHA-256: c0b4a7c6a716682755ee396c0b6e31535b3b64603d1db6fc711f7c924c59ff08
+
+marker.png   PNG image, 100x100, 8-bit RGB, 292 bytes
+SHA-256: bbaf3b444bb28de3aa83120f43123da756dd0b995acf9df8d8d9d32f05169d2
